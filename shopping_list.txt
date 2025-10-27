@@ -1,0 +1,12 @@
+apples
+bananas
+milk
+egg
+bread
+cheese
+butter
+oil
+berries
+mushrooms
+bagels
+cream
