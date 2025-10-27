@@ -12,3 +12,6 @@ bagels
 cream
 juice
 fish 
+chicken
+meat 
+turkey
